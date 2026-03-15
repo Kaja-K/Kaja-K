@@ -11,25 +11,19 @@ who = {
 }
 ```
 
-&nbsp;
-
 **#python**
 
 `Pandas` `NumPy` `Matplotlib` `Seaborn` `scikit-learn` `regex`
-
-&nbsp;
 
 **#sql**
 
 `JOIN` `subqueries` `window functions` `CTEs` `indexing` `ETL`
 
-&nbsp;
 
 **#bi**
 
 `Power BI` `DAX` `Tableau` `Excel` `Power Query` `MS Access`
 
-&nbsp;
 
 **#other**
 
