@@ -20,7 +20,7 @@ who = {
 `JOIN` `subqueries` `window functions` `CTEs` `indexing` `ETL`
 
 
-**[ bi ]**
+**[ business intelligence ]**
 
 `Power BI` `DAX` `Tableau` `Excel` `Power Query` `Power Pivot` `MS Access`
 
