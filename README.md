@@ -1,16 +1,46 @@
-## Hi there 👋
+```python
+who = {
+    "name":     "Kaja",
+    "location": "Wrocław, PL",
+    "role":     "BI & Data Analyst (in progress)",
+    "studies":  ["PWr → Inżynieria Zarządzania",
+                 "WSB Merito → Business Intelligence"],
+    "languages": ["Polish (native)", "English (B2/C1)"],
+}
+```
 
-<!--
-**Kaja-K/Kaja-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;
 
-Here are some ideas to get you started:
+**#python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `scikit-learn` `regex`
+
+&nbsp;
+
+**#sql**
+
+`JOIN` `subqueries` `window functions` `CTEs` `indexing` `ETL`
+
+&nbsp;
+
+**#bi**
+
+`Power BI` `DAX` `Tableau` `Excel` `Power Query` `MS Access`
+
+&nbsp;
+
+**#other**
+
+`R` `VBA` `AMPL` `Linux`
+
+&nbsp;
+
+---
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaja-K&layout=compact&theme=dark&hide_border=true)
+
+&nbsp;
+
+---
+
+*"No matter where you go, everyone is connected."*
