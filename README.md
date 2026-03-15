@@ -35,10 +35,6 @@ who = {
 
 &nbsp;
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaja-K&layout=compact&theme=dark&hide_border=true)
-
-&nbsp;
-
 ---
 
 *"No matter where you go, everyone is connected."*
