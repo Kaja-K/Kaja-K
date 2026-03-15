@@ -11,26 +11,32 @@ who = {
 }
 ```
 
-**#python**
+**[ python ]**
 
 `Pandas` `NumPy` `Matplotlib` `Seaborn` `scikit-learn` `regex`
 
-**#sql**
+**[ sql ]**
 
 `JOIN` `subqueries` `window functions` `CTEs` `indexing` `ETL`
 
 
-**#bi**
+**[ bi ]**
 
-`Power BI` `DAX` `Tableau` `Excel` `Power Query` `MS Access`
+`Power BI` `DAX` `Tableau` `Excel` `Power Query` `Power Pivot` `MS Access`
 
 
-**#other**
+**[ data science ]**
 
-`R` `VBA` `AMPL` `Linux`
+`EDA` `data cleaning` `predictive modeling` `time-series` `RapidMiner` `Orange`
+
+
+**[ other ]**
+
+`R` `VBA` `AMPL` `Linux` `Jupyter` `VS Code` `GitHub`
+
 
 &nbsp;
 
----
 
-*"No matter where you go, everyone is connected."*
+---
+<div align="right"><i>"No matter where you go, everyone is connected."</i></div>
