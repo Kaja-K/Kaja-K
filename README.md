@@ -13,7 +13,7 @@ who = {
 
 **[ python ]**
 
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `scikit-learn` `regex`
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `scikit-learn` `regex` `Plotly`  `Dash`
 
 **[ sql ]**
 
@@ -27,7 +27,7 @@ who = {
 
 **[ data science ]**
 
-`EDA` `data cleaning` `predictive modeling` `time-series` `RapidMiner` `Orange`
+`EDA` `data cleaning` `predictive modeling` `time-series` `RapidMiner` `Orange` `data visualization` `API integration`
 
 
 **[ other ]**
