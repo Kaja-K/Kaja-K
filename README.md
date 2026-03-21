@@ -17,7 +17,7 @@ who = {
 
 **[ sql ]**
 
-`JOIN` `subqueries` `window functions` `CTEs` `indexing` `ETL`
+`PostgreSQL` `T-SQL` `JOIN` `subqueries` `window functions` `CTEs` `indexing` `ETL`
 
 
 **[ business intelligence ]**
