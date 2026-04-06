@@ -7,7 +7,10 @@ who = {
         "B.Eng.": "Management Engineering @ PWr  ·  2022–2026  ·  honors",
         "M.Sc.":  "Business Intelligence @ WSB Merito  ·  2026–2028  ·  in progress",
     },
-    "languages": ["Polish (native)", "English (B2/C1)"],
+    "experience": {
+        "Working Student": "Data Analyst @ Nokia ",
+    },
+    "languages": ["Polish (native)", "English (C1)"],
 }
 ```
 
