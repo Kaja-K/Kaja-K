@@ -3,15 +3,14 @@ who = {
     "name":      "Kaja",
     "location":  "Wrocław, PL",
     "role":      "BI & Data Analyst",
+    "work":      "Data Analyst @ Nokia",
     "studies": {
         "B.Eng.": "Management Engineering @ PWr  ·  2022–2026  ·  honors",
         "M.Sc.":  "Business Intelligence @ WSB Merito  ·  2026–2028  ·  in progress",
     },
-    "experience": {
-        "Working Student": "Data Analyst @ Nokia ",
-    },
     "languages": ["Polish (native)", "English (C1)"],
 }
+
 ```
 
 **[ python ]**
