@@ -15,11 +15,11 @@ who = {
 
 **[ python ]**
 
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `scikit-learn` `regex` `Plotly`  `Dash`
+`Pandas` `NumPy` `regex` 
 
 **[ sql ]**
 
-`PostgreSQL` `T-SQL` `JOIN` `subqueries` `window functions` `CTEs` `indexing` `ETL`
+`PostgreSQL` `T-SQL` `JOIN` `subqueries` `window functions` `CTEs`
 
 
 **[ business intelligence ]**
@@ -29,7 +29,7 @@ who = {
 
 **[ data science ]**
 
-`EDA` `data cleaning` `predictive modeling` `time-series` `RapidMiner` `Orange` `data visualization` `API integration`
+`EDA` `data cleaning` `predictive modeling` `time-series`  `data visualization` `API integration`
 
 
 **[ other ]**
